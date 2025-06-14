@@ -9,3 +9,8 @@ go
 kde.org
 mimeapps.list
 session
+QtProject.conf
+kwalletrc
+libreoffice
+obsidian
+user-dirs.*
